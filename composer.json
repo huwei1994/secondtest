@@ -1,0 +1,19 @@
+{
+    "name": "huwei1994/test3",
+    "description": "this is second time to devolope the  laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huwei",
+            "email": "wei.hu@haoqitech.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Huwei1994\\Test3\\": "src/"
+        }
+    }
+}
